@@ -5,7 +5,7 @@
 
 - Machine Learning Consultant at Netlight 🦄
 
-- 🚀 Currently building Spectable
+- 🚀 Currently building Tictable
 
 - 👨‍💻 Check out some of my projects [https://hugobjork.com/](https://hugobjork.com/)
 
