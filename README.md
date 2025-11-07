@@ -3,7 +3,7 @@
 
 - 🌍 Location **Stockholm**
 
-- Machine Learning Consultant at Netlight 🦄
+- 🦄 Machine Learning Consultant at Netlight 
 
 - 🚀 Currently building Tictable
 
