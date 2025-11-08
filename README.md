@@ -3,7 +3,7 @@
 
 - 🌍 Location **Stockholm**
 
-- 🦄 Machine Learning Consultant at Netlight 
+- ⛰️ Fullstack Engineer at Berget AI
 
 - 🚀 Currently building Tictable
 
